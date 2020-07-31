@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137939651947",
+    "firebase_url": "https://us-online-store-63a56.firebaseio.com",
+    "project_id": "us-online-store-63a56",
+    "storage_bucket": "us-online-store-63a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137939651947:android:fce797107065782621902e",
+        "android_client_info": {
+          "package_name": "com.iqonic.usonlinestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137939651947-3uhtsek86sbgqe5d2to8gjmjdfndl2bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmIgCZaoZl5FWxm_2TNK27yh7WM_5fWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137939651947-3uhtsek86sbgqe5d2to8gjmjdfndl2bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
